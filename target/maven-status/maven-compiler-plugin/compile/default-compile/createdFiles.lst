@@ -1,1 +1,11 @@
+ocp\specifications\SizeSpecification.class
+ocp\interfaces\Filter.class
+ocp\enums\Size.class
+ocp\interfaces\Specification.class
+ocp\Product.class
+ocp\FinalFilter.class
+ocp\enums\Color.class
+ocp\specifications\ColorPriceSpecification.class
 App.class
+ocp\specifications\ColorSpecification.class
+ocp\specifications\PriceSpecification.class
